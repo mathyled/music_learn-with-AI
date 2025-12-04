@@ -1,4 +1,4 @@
-// File: C:\Users\mathi\Downloads\music-app-with-quizzes\app\api\analyze-lyrics\route.ts
+// File: C:\Users\mathi\Escritorio\music_learn-with-AI\app\api\analyze-lyrics\route.ts
 import * as entry from '../../../../../app/api/analyze-lyrics/route.js'
 import type { NextRequest } from 'next/server.js'
 

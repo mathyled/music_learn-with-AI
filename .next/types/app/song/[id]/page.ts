@@ -1,4 +1,4 @@
-// File: C:\Users\mathi\Downloads\music-app-with-quizzes\app\song\[id]\page.tsx
+// File: C:\Users\mathi\Escritorio\music_learn-with-AI\app\song\[id]\page.tsx
 import * as entry from '../../../../../app/song/[id]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

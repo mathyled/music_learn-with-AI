@@ -1,4 +1,4 @@
-// File: C:\Users\mathi\Downloads\music-app-with-quizzes\app\layout.tsx
+// File: C:\Users\mathi\Escritorio\music_learn-with-AI\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

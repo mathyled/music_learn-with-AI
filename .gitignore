@@ -20,6 +20,19 @@ dist
 dist-ssr
 *.local
 
+
+.env.local           # Tus API keys (GROQ, OpenAI, etc.)
+.env.development.local
+.env.production.local
+
+
+/node_modules        # Dependencias (se reinstalan con npm install)
+
+
+/.next/              # Build de Next.js
+/out/                # Output de export estático
+
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

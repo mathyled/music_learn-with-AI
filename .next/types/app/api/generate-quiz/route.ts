@@ -1,4 +1,4 @@
-// File: C:\Users\mathi\Downloads\music-app-with-quizzes\app\api\generate-quiz\route.ts
+// File: C:\Users\mathi\Escritorio\music_learn-with-AI\app\api\generate-quiz\route.ts
 import * as entry from '../../../../../app/api/generate-quiz/route.js'
 import type { NextRequest } from 'next/server.js'
 
