@@ -1,0 +1,8 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/song/[id]/page": "app/song/[id]/page.js",
+  "/api/analyze-lyrics/route": "app/api/analyze-lyrics/route.js",
+  "/quiz/[id]/page": "app/quiz/[id]/page.js",
+  "/api/generate-quiz/route": "app/api/generate-quiz/route.js"
+}
