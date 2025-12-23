@@ -26,8 +26,7 @@ Una aplicación web moderna construida con Next.js que te permite aprender ingl�
 - **Tailwind CSS** - Estilos
 - **Groq AI** - Análisis de letras y generación de quizzes
 - **Radix UI** - Componentes de UI accesibles
-- **React Hook Form** - Manejo de formularios
-- **Zod** - Validación de esquemas
+
 
 ## 📋 Requisitos Previos
 
@@ -94,7 +93,7 @@ La aplicación estará disponible en [http://localhost:3000](http://localhost:30
 2. **Ver Letras**: Haz clic en "Ver Letras & Análisis" para ver la canción completa
 3. **Analizar Letras**: El análisis con IA se genera automáticamente cuando abres una canción
 4. **Generar Quiz**: Haz clic en "Generar Quiz" para crear un quiz interactivo basado en la canción
-5. **Ver Progreso**: Navega a la página "Progress" para ver tus estadísticas de aprendizaje
+
 
 ## 📁 Estructura del Proyecto
 
@@ -167,7 +166,6 @@ npm run dev -- -p 3001
 
 - La aplicación usa el modelo `llama-3.3-70b-versatile` de Groq para el análisis de letras y generación de quizzes
 - Las canciones están almacenadas localmente en `lib/lyrics-api.ts`
-- El proyecto está configurado para ignorar errores de TypeScript durante el build (útil para desarrollo rápido)
 
 ## 🤝 Contribuir
 
